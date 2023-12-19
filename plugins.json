@@ -1,0 +1,27 @@
+[
+  {
+    "internalName": "hijack-customize-pluginhub",
+    "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
+    "size": 2221,
+    "plugins": [
+      "ca.arnah.runelite.HijackCustomizePlugin"
+    ],
+    "displayName": "HiJack Customize PluginHub",
+    "description": "",
+    "provider": "arnah"
+  },
+  {
+    "internalName": "httpplug",
+    "hash": "ebb59866458402a6ec5bdde845f90ba1edc4476adcab53a3766c90109c87a5f6",
+    "size": 14436,
+    "plugins": [
+      "net.runelite.client.plugins.httpplug.XpTracker",
+      "net.runelite.client.plugins.httpplug.ProfitTracker",
+      "net.runelite.client.plugins.httpplug.HttpServerPlugin",
+      "net.runelite.client.plugins.httpplug.HttpServerConfig",
+    ],
+    "displayName": "httplug",
+    "description": "",
+    "provider": "httpplug"
+  }
+]
