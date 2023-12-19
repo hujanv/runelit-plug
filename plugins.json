@@ -11,7 +11,7 @@
     "provider": "arnah"
   },
   {
-    "internalName": "httpplug",
+    "internalName": "httpplug-1.0.3",
     "hash": "ebb59866458402a6ec5bdde845f90ba1edc4476adcab53a3766c90109c87a5f6",
     "size": 14436,
     "plugins": [
